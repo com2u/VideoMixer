@@ -4,7 +4,7 @@ A powerful video mixing application that allows you to combine and edit multiple
 
 ## Example
 
-![VideoMixer Example](/images/VideoMixer.png)
+![VideoMixer Example](images/VideoMixer.png)
 
 ## Features
 
